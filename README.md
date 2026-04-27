@@ -10,7 +10,7 @@ Swift · TypeScript · React · Node.js
 
 ## Projects
 
-### [Heartbeat](https://github.com/jlaufweg/heartbeat) — iOS BLE heart rate monitor
+### Heartbeat — iOS BLE heart rate monitor
 
 CoreBluetooth app targeting the standard Heart Rate GATT profile (0x180D). Live BPM with 5-zone colour coding, rolling RMSSD / SDNN / pNN50 HRV from RR intervals, calorie estimation via Keytel 2005 formula, session recording with SwiftData persistence, and Apple Health write via HKWorkoutBuilder. Screen idle timer disabled during active sessions.
 
